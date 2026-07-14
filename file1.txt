@@ -1,8 +1,5 @@
 cat
 dog
 apple
-<<<<<<< HEAD
-red
-=======
-tomato
->>>>>>> vegi
+red tomato
+
